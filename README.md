@@ -2,7 +2,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Hey%2C%20it%27s%20Mansi%20%E2%9C%A6&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=data%20engineer%20%26%20ai%20engineer%20%7C%20where%20data%20meets%20intelligence&descAlignY=58&descSize=17&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Hey%2C%20it%27s%20Mansi%20%E2%9C%A6&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=data%20engineer%20%C3%97%20ai%20engineer%20%7C%20where%20data%20meets%20intelligence&descAlignY=58&descSize=17&animation=twinkling" />
 
 </div>
 

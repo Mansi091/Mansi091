@@ -94,7 +94,7 @@ Currently exploring **LLMs, LangGraph & GCP** while working on projects that mak
     <img src="https://img.shields.io/badge/linkedin-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL-HERE@gmail.com">
+  <a href="mailto:madgulemansi987@gmail.com">
     <img src="https://img.shields.io/badge/email%20me-0d0d1a?style=for-the-badge&logo=gmail&logoColor=C084FC" />
   </a>
 </p>

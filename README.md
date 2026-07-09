@@ -8,7 +8,7 @@
 
 ### about me ✦
 
-CS undergrad living at the intersection of **data engineering** and **AI** — I build data pipelines, train models, and ship agentic AI systems.
+AI 7 DS undergrad living at the intersection of **data engineering** and **AI** — I build data pipelines, train models, and ship agentic AI systems.
 Currently exploring **LLMs, LangGraph & GCP** while working on projects that make raw data actually do something intelligent. 🚀
 
 ---

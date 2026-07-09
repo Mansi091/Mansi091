@@ -90,7 +90,7 @@ Currently exploring **LLMs, LangGraph & GCP** while working on projects that mak
     <img src="https://img.shields.io/badge/github-0d0d1a?style=for-the-badge&logo=github&logoColor=C084FC" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/mansi-madgule06/">
     <img src="https://img.shields.io/badge/linkedin-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=C084FC" />
   </a>
   &nbsp;

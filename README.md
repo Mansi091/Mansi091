@@ -104,6 +104,6 @@ Currently exploring **LLMs, LangGraph & GCP** while working on projects that mak
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&text=thanks%20for%20stopping%20by%20✦&fontSize=20&fontColor=ffffff&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=120&section=footer&text=let%27s%20build%20something%20cool%20✦&fontSize=20&fontColor=ffffff&fontAlignY=65" />
 
 </div>

@@ -34,7 +34,7 @@ Currently exploring **Agentic Workflows and Data modelling** while working on pr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-4B0082?style=for-the-badge)
 ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-4B0082?style=for-the-badge)
-![Spark (basics)](https://img.shields.io/badge/Spark%20(basics)-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark%20(basics)-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 **📈 Statistics & Fundamentals**
 
@@ -52,7 +52,7 @@ Currently exploring **Agentic Workflows and Data modelling** while working on pr
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-412991?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-412991?style=for-the-badge)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-412991?style=for-the-badge)
+
 
 **⚙️ Backend & Frameworks**
 
@@ -74,7 +74,6 @@ Currently exploring **Agentic Workflows and Data modelling** while working on pr
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-000000?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

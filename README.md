@@ -9,7 +9,7 @@
 ### About me ✦
 
 AI & DS undergrad living at the intersection of **Data** and **AI** — I build data pipelines, train models, and ship AI systems.
-Currently exploring **LangGraph & GCP** while working on projects that make raw data actually do something intelligent. 🚀
+Currently exploring **Agentic Workflows and Data modelling** while working on projects that make raw data actually do something intelligent. 🚀
 
 ---
 

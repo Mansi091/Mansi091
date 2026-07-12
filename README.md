@@ -94,7 +94,7 @@ Currently exploring **Agentic Workflows and Data modelling** while working on pr
   </a>
   &nbsp;
   <a href="mailto:madgulemansi987@gmail.com">
-    <img src="https://img.shields.io/badge/email%20me-0d0d1a?style=for-the-badge&logo=gmail&logoColor=C084FC" />
+    <img src="https://img.shields.io/badge/email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=C084FC" />
   </a>
 </p>
 

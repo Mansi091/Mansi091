@@ -28,8 +28,4 @@ I build data pipelines, train machine learning models, and craft AI applications
   </a>
   <a href="https://www.linkedin.com/in/mansi-madgule06/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:madgulemansi987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>

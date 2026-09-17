@@ -4,14 +4,6 @@
 
 I build data pipelines, train machine learning models, and craft AI applications that turn raw data into actionable intelligence.
 
----
-
-### ✦ About Me
-
-- 🎓 **Undergrad**: AI & Data Science
-- 🔭 **Current Focus**: Agentic Workflows, Data Modeling & LLM Applications
-- 💡 **Passionate About**: Building practical ML solutions, clean data pipelines, and intelligent agents
-- 📬 **Reach Me**: [madgulemansi987@gmail.com](mailto:madgulemansi987@gmail.com)
 
 ---
 

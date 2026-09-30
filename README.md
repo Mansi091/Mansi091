@@ -1,4 +1,4 @@
-# Hi there, I'm Mansi 👋
+# Hi there, its MANSI
 
 > **AI & Data Science Student | Machine Learning & Intelligent Systems**
 

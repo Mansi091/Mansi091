@@ -2,22 +2,6 @@
 
 > **AI & Data Science Student | Machine Learning & Intelligent Systems**
 
-I build data pipelines, train machine learning models, and craft AI applications that turn raw data into actionable intelligence.
-
-
----
-
-### ⚡ Core Technologies
-
-**Languages & Analytics**  
-`Python` • `C++` • `SQL` • `Java` • `JavaScript`
-
-**AI & Machine Learning**  
-`PyTorch` • `TensorFlow` • `Scikit-Learn` • `Pandas` • `NumPy` • `LLMs & RAG`
-
-**Backend & Tools**  
-`FastAPI` • `PostgreSQL` • `MongoDB` • `Docker` • `Git`
-
 ---
 
 ### ✦ Let's Connect
